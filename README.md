@@ -1,6 +1,8 @@
 # multiprocessing_cpu_gpu
 Example of how to run multiple jobs in parallel across gpu and/or cpu in Python (including pytorch)
 
+Run the example python notebook
+
 Some tips:
 * one job is one method you wish to execute
 * rather or not running parallel saves time depends on two things: the computational power of each job being run, and how many jobs you are running.
